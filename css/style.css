@@ -1,0 +1,30 @@
+body{
+  background-color: #428397;
+}
+table {
+    font-family: roboto, sans-serif;
+    border-collapse: collapse;
+    width: 60%;
+    margin: 0 auto;
+  }
+  th {
+    background-color: #dbf7f3;
+    font-size: 18px;
+    color: #215e55;
+  }
+  td {
+    background-color: #fdfdfd;
+    font-weight: bold;
+    color: #272e2d;
+  }
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  h1{
+    font-family: roboto, sans-serif;
+    text-align: center;
+    margin: 45px 0 45px;
+    color: #fff;
+  }
